@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Removing Vowels 2", "Removing Vowels 2\Removing Vowels 2.csproj", "{669DCB40-F7D2-4AE2-A984-AD8BD6105885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669DCB40-F7D2-4AE2-A984-AD8BD6105885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669DCB40-F7D2-4AE2-A984-AD8BD6105885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669DCB40-F7D2-4AE2-A984-AD8BD6105885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669DCB40-F7D2-4AE2-A984-AD8BD6105885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2CE05C-6E47-4610-BA44-168C8C55CB8F}
+	EndGlobalSection
+EndGlobal
